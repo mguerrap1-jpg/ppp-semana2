@@ -1,0 +1,11 @@
+mkdir
+cd
+ls 
+touch
+echo
+git add . 
+git commit -m
+git status 
+git clone 
+git push
+
